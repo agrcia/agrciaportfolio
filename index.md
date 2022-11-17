@@ -5,7 +5,7 @@
 ### Ripped Text Effect
 
 [Project 1: Ripped Text Effect](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ripped.png?raw=true"/>
 
 ---
 [Project 2: Galaxy Cat](/pdf/sample_presentation.pdf)
