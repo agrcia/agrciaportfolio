@@ -13,7 +13,7 @@
 
 ---
 [Project 3: Double Exposure](http://example.com/)
-<img src="images/2xesposure.png?raw=true"/>
+<img src="images/2xexposure.png?raw=true"/>
 
 ---
 
