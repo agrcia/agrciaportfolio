@@ -17,6 +17,13 @@
 
 ---
 
+[Project 4: Text Effect](http://example.com/)
+<img src="images/reality surf.jpg?raw=true"/>
+---
+
+[Project 5: Pop Art](http://example.com/)
+<img src="images/pop.png?raw=true"/>
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
