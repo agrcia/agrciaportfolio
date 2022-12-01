@@ -4,24 +4,26 @@
 
 ### Ripped Text Effect
 
-[Project 1: Ripped Text Effect](/sample_page)
+[Project 1](/sample_page)
 <img src="images/ripped.png?raw=true"/>
 
 ---
-[Project 2: Graffiti](/pdf/sample_presentation.pdf)
+### Graffity
+[Project 2](/pdf/sample_presentation.pdf)
 <img src="images/graffiti.png?raw=true"/>
 
 ---
-[Project 3: Double Exposure](http://example.com/)
+### Double Exposure
+[Project 3](http://example.com/)
 <img src="images/2xexposure.png?raw=true"/>
 
 ---
-
-[Project 4: Text Effect](http://example.com/)
+### Text Effect
+[Project 4](http://example.com/)
 <img src="images/reality surf.jpg?raw=true"/>
 ---
-
-[Project 5: Pop Art](http://example.com/)
+### Pop Art
+[Project 5](http://example.com/)
 <img src="images/pop.png?raw=true"/>
 
 ### Category Name 2
