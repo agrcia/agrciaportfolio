@@ -25,6 +25,10 @@
 ### Pop Art
 [Project 5](http://example.com/)
 <img src="images/pop.png?raw=true"/>
+---
+### Scientist Stencil Art
+[Project 5](http://example.com/)
+<img src="images/musk.jpg?raw=true"/>
 
 ### Category Name 2
 
