@@ -30,6 +30,11 @@
 [Project 5](http://example.com/)
 <img src="images/musk.jpg?raw=true"/>
 
+
+### 3D Effects
+[Project 6](http://example.com/)
+<img src="images/ecco2split.jpg?raw=true"/>
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
