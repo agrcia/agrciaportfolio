@@ -35,13 +35,13 @@
 [Project 6](http://example.com/)
 <img src="images/ecco2split.jpg?raw=true"/>
 
-### Category Name 2
+### Web Design Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [About me](https://trinket.io/html/0bc13928dd)
+- [Tell A Story](https://trinket.io/html/e8228e96cb)
+- [Build A Robot](https://trinket.io/html/32baee7198)
+- [Sunrise](https://trinket.io/html/eab5e6833d)
+- [Halloween Card](https://trinket.io/html/71981ca170)
 
 ---
 
