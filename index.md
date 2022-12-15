@@ -1,6 +1,8 @@
 ## AJ Garcia's Portfolio
 
 ---
+# Image Projects
+
 
 ### Ripped Text Effect
 
