@@ -3,7 +3,7 @@
 ---
 # Image Projects
 
-
+---
 ### Ripped Text Effect
 <img src="images/ripped.png?raw=true"/>
 
@@ -18,14 +18,16 @@
 ---
 ### Text Effect
 <img src="images/reality surf.jpg?raw=true"/>
+
 ---
 ### Pop Art
 <img src="images/pop.png?raw=true"/>
+
 ---
 ### Scientist Stencil Art
 <img src="images/musk.jpg?raw=true"/>
 
-
+---
 ### 3D Effects
 <img src="images/ecco2split.jpg?raw=true"/>
 
